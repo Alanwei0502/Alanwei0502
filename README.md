@@ -24,4 +24,7 @@ I'm a front-end developer. Experienced in JavaScript-based programming, especial
 
 ### :brain: Currently Learning:
 
+- Regex
+- TypeScript
+- Frontend Optimization
 - Algorithms and data structures
