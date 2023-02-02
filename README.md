@@ -27,4 +27,4 @@ I'm a front-end developer. Experienced in JavaScript-based programming, especial
 - Webpack
 - TypeScript
 - Frontend Optimization
-- Algorithms and data structures
+- Algorithms and Data Structures
