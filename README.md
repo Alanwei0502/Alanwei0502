@@ -24,7 +24,8 @@ I'm a front-end developer. Experienced in JavaScript-based programming, especial
 
 ### :brain: Currently Learning:
 
-- Webpack
+- NodeJS
+- Express
 - TypeScript
 - Frontend Optimization
 - Algorithms and Data Structures
