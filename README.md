@@ -37,3 +37,4 @@ I'm a front-end developer. Experienced in JavaScript-based programming, especial
 - TypeScript
 - Frontend Optimization
 - Algorithms and Data Structures
+- PostgreSQL
