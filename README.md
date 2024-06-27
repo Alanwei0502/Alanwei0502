@@ -36,6 +36,6 @@ I'm a front-end developer. Experienced in JavaScript-based programming, especial
 - NodeJS
 - Express
 - TypeScript
-- Frontend Optimization
-- Algorithms and Data Structures
-- PostgreSQL
+- Frontend Performance Optimization
+- Design Pattern
+- Next.js
