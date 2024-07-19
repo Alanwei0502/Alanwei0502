@@ -4,7 +4,7 @@
 
 ### :raising_hand_man: About Me:
 
-I'm a front-end developer. Experienced in JavaScript-based programming, especially React and Redux, as well as TypeScript.
+Hello, I am Alan, a front-end engineer specializing in JavaScript-based programming languages. I have expertise in project development using the React framework in conjunction with Redux and TypeScript. For backend work, I use Express.js.
 
 ### :hammer_and_wrench: Language and Tools:
 
